@@ -6,11 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Pirátská strana | pokus
+title: Pirátská strana | pokus Bohumín
+email: jakub.jezisek@pirati.cz
 description: > # this means to ignore newlines until "baseurl:"
-  Web místního sdružení České pirátské strany v Brandýse - Boleslavi.
+  Web místního sdružení České pirátské strany Bohumíně.
 github_username:  jekyll
-url: "https://brandys.pirati.cz" # the base hostname & protocol for your site
+url: "https://jakubjezisek.github.io/test/" # the base hostname & protocol for your site
 twitter_username: tangero
 
 # Build settings
